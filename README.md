@@ -21,10 +21,7 @@ Usage
 
     Clone the repository:
 
-bash
 
-git clone https://github.com/yourusername/hardcoded-token-scanner.git
-cd hardcoded-token-scanner
 
     Run the script:
 
