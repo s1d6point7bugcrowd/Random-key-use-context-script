@@ -1,4 +1,4 @@
-# Hardcoded Token Scanner
+# Hardcoded Token Use Context ([generic-tokens] [http] [unknown])
 
 This tool is designed to scan web pages and their linked JavaScript files for hardcoded tokens. It can help identify potential security issues by detecting sensitive information that might be exposed in the source code.
 
